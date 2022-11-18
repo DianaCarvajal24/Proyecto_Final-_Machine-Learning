@@ -1,4 +1,4 @@
-# Proyecto_Final-_Machine-Learning
+# Proyecto_Final_Machine-Learning
 
 Conjunto de datos del centro de servicios de transfusión de sangre:
 
